@@ -36,13 +36,8 @@
 [![Spotify](https://spotifybadge.vercel.app/api/spotify)](https://open.spotify.com/user/7jlpf23yb8n91ft6vsthz68hu)
 <br><br>
 **It's a bit complicated, so I recommend you to read the Owner's guide. It's short and pretty well explained.**
-[Set up guide.](https://github.com/novatorem/novatorem/blob/master/SetUp.md)
 [![Guide](https://github.com/mrslima/A-Brief-Tutorial-of-README/blob/main/resources/guide.gif)](https://github.com/novatorem/novatorem/blob/master/SetUp.md)
 
-<a href="https://github.com/novatorem/novatorem/blob/master/SetUp.md">
-  <img align = "left" src="https://github-readme-stackoverflow.vercel.app/?userID=14450222" height="200">
-  <img align='center' src="https://github-readme-stackoverflow.vercel.app/?userID=14450222&theme=dark" height="200">
-</a>
 
 
 # <a name="refs"></a>Credits & References
