@@ -36,7 +36,7 @@
 [![Spotify](https://spotifybadge.vercel.app/api/spotify)](https://open.spotify.com/user/7jlpf23yb8n91ft6vsthz68hu)
 <br><br>
 **It's a bit complicated, so I recommend you to read the Owner's guide. It's short and pretty well explained.**
-[![Guide](https://github.com/mrslima/A-Brief-Tutorial-of-README/blob/main/resources/guide.gif)](https://github.com/novatorem/novatorem/blob/master/SetUp.md)
+[Guide](https://github.com/novatorem/novatorem/blob/master/SetUp.md)
 
 
 
