@@ -37,7 +37,7 @@
 <br><br>
 **It's a bit complicated, so I recommend you to read the Owner's guide. It's short and pretty well explained.**
 [Set up guide.](https://github.com/novatorem/novatorem/blob/master/SetUp.md)
-[![Guide](https://media.giphy.com/media/RM5qpQpypZLk6T4v1D/giphy.gif)](https://github.com/novatorem/novatorem/blob/master/SetUp.md)
+[![Guide](https://github.com/mrslima/A-Brief-Tutorial-of-README/blob/main/resources/guide.gif)](https://github.com/novatorem/novatorem/blob/master/SetUp.md)
 
 <a href="https://github.com/novatorem/novatorem/blob/master/SetUp.md">
   <img align = "left" src="https://github-readme-stackoverflow.vercel.app/?userID=14450222" height="200">
