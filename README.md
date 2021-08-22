@@ -42,3 +42,4 @@
 
 # <a name="refs"></a>Credits & References
 [StackOverflow Stats](https://github.com/omidnikrah/github-readme-stackoverflow) | **Omid Nikrah** ![Omid Nikrah](https://img.shields.io/github/followers/omidnikrah.svg?style=social&label=Follow&maxAge=2592000)
+[Spotify Player](https://github.com/novatorem/novatorem/blob/master/) | **Andrew Novac** ![Andrew Novac](https://img.shields.io/github/followers/novatorem.svg?style=social&label=Follow&maxAge=2592000)
