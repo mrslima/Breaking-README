@@ -1,6 +1,7 @@
-# A shallow tutorial.
+# A compilation of cool stuff to have in your Readme.
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20px">**DISCLAIMER: It's just a compilation of cool stuff for your Readme.**<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20px">
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20px">**DISCLAIMER: It's just a shallow explanation (more like an overview).
+ All the original fonts will be listed for a complete understanding.**<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20px">
 
 ----
 ###  Table of Contents
@@ -32,7 +33,7 @@
 
 -----
 
-# <a name="spotifyplayer"></a>StackOverflow Stats
+# <a name="spotifyplayer"></a>Spotify Player
 [![Spotify](https://spotifybadge.vercel.app/api/spotify)](https://open.spotify.com/user/7jlpf23yb8n91ft6vsthz68hu)
 <br><br>
 **It's a bit complicated, so I recommend you to read the Owner's guide. It's short and pretty well explained.**
