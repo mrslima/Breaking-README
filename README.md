@@ -79,6 +79,8 @@ Example:<br>[![Reddit Badge](https://img.shields.io/badge/-u/mrslimaads-FF4500?s
 [150+ Badges for GitHub](https://dev.to/envoy_/150-badges-for-github-pnk) <br>
 [Shields.io](https://shields.io)
 
+----
+
 # <a name="refs"></a>Credits & References
 [StackOverflow Stats](https://github.com/omidnikrah/github-readme-stackoverflow) | **Omid Nikrah** [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?&theme=bold)](https://github.com/omidnikrah)
 <br>
@@ -87,3 +89,6 @@ Example:<br>[![Reddit Badge](https://img.shields.io/badge/-u/mrslimaads-FF4500?s
 - [Shields.io](https://github.com/badges/shields) | **Shields.io** [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?&theme=bold)](https://github.com/badges)
 - [150+ Badges for GitHub](https://dev.to/envoy_/150-badges-for-github-pnk) | **Envoy-VC** [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?&theme=bold)](https://github.com/Envoy-VC)
 
+----
+
+## <img align="center" src="https://media.giphy.com/media/1BFEhLo5xIeuzzBm7e/giphy.gif" width="60px"> Hope you enjoyed!
