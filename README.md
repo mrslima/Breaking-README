@@ -7,6 +7,7 @@
 ###  Table of Contents
   - [Stack Overflow Stats](#stackoverflowstats)
   - [Spotify Player](#spotifyplayer)
+  - [Badges](#badges)
   - [Credits & References](#refs)
 ----
 # <a name="stackoverflowstats"></a>Stack Overflow Stats
@@ -42,6 +43,14 @@
 ----
 
 # <a name="badges"></a>Badges
+
+`[![Label](image/badge link)](content link)`
+<br><br>
+Example:<br>[![Reddit Badge](https://img.shields.io/badge/-u/mrslimaads-FF4500?style=bold&logo=Reddit&logoColor=white)
+](https://www.reddit.com/user/mrslimaads)
+```
+[![Reddit Badge](https://img.shields.io/badge/-u/mrslimaads-FF4500?style=bold&logo=Reddit&logoColor=white)](https://www.reddit.com/user/mrslimaads)
+```
 #### Social
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
