@@ -1,7 +1,7 @@
 # A compilation of cool stuff to have in your Readme.
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20px">**DISCLAIMER: It's just a shallow explanation (more like an overview).
- All the original fonts will be listed for a complete understanding.**<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20px">
+ All the fonts will be listed for a complete understanding.**<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20px">
 
 ----
 ###  Table of Contents
